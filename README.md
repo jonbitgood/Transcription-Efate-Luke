@@ -1,5 +1,9 @@
 # The Gospel of Luke in Efate
 
+## Source Text Location
+
+[archive.org](https://archive.org/details/Gospel_of_Luke_Efate)
+
 ## Translation Information
 
 - **Title**: The Gospel of Luke in Efate
